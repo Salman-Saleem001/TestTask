@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Springbank",
+    "vintage": 1992,
+    "cask_number": "#1234",
+    "image_url": "https://pics.clipartpng.com/midle/Liquor_Bottle_PNG_Clipart-87.png",
+    "available_bottles": 112,
+    "total_bottles": 158,
+    "details_key": "springbank_1992_1234_details"
+  },
+  {
+    "id": 2,
+    "name": "Macallan",
+    "vintage": 1990,
+    "cask_number": "#2045",
+    "image_url": "https://picsum.photos/200?image=1002",
+    "available_bottles": 80,
+    "total_bottles": 120,
+    "details_key": "macallan_1990_2045_details"
+  },
+  {
+    "id": 3,
+    "name": "Lagavulin",
+    "vintage": 1995,
+    "cask_number": "#3067",
+    "image_url": "https://picsum.photos/200?image=1003",
+    "available_bottles": 60,
+    "total_bottles": 100,
+    "details_key": "lagavulin_1995_3067_details"
+  },
+  {
+    "id": 4,
+    "name": "Laphroaig",
+    "vintage": 1989,
+    "cask_number": "#1098",
+    "image_url": "https://picsum.photos/200?image=1004",
+    "available_bottles": 45,
+    "total_bottles": 90,
+    "details_key": "laphroaig_1989_1098_details"
+  },
+  {
+    "id": 5,
+    "name": "Ardbeg",
+    "vintage": 2000,
+    "cask_number": "#4875",
+    "image_url": "https://picsum.photos/200?image=1005",
+    "available_bottles": 100,
+    "total_bottles": 150,
+    "details_key": "ardbeg_2000_4875_details"
+  },
+  {
+    "id": 6,
+    "name": "Glendronach",
+    "vintage": 1994,
+    "cask_number": "#5567",
+    "image_url": "https://picsum.photos/200?image=1006",
+    "available_bottles": 70,
+    "total_bottles": 100,
+    "details_key": "glendronach_1994_5567_details"
+  },
+  {
+    "id": 7,
+    "name": "Balvenie",
+    "vintage": 1997,
+    "cask_number": "#1344",
+    "image_url": "https://picsum.photos/200?image=1007",
+    "available_bottles": 115,
+    "total_bottles": 130,
+    "details_key": "balvenie_1997_1344_details"
+  },
+  {
+    "id": 8,
+    "name": "Glenlivet",
+    "vintage": 1991,
+    "cask_number": "#7854",
+    "image_url": "https://picsum.photos/200?image=1008",
+    "available_bottles": 50,
+    "total_bottles": 90,
+    "details_key": "glenlivet_1991_7854_details"
+  },
+  {
+    "id": 9,
+    "name": "Dalmore",
+    "vintage": 1996,
+    "cask_number": "#2987",
+    "image_url": "https://picsum.photos/200?image=1009",
+    "available_bottles": 130,
+    "total_bottles": 140,
+    "details_key": "dalmore_1996_2987_details"
+  },
+  {
+    "id": 10,
+    "name": "Highland Park",
+    "vintage": 1993,
+    "cask_number": "#8421",
+    "image_url": "https://picsum.photos/200?image=1010",
+    "available_bottles": 90,
+    "total_bottles": 100,
+    "details_key": "highland_park_1993_8421_details"
+  },
+  {
+    "id": 11,
+    "name": "Glenfiddich",
+    "vintage": 1998,
+    "cask_number": "#6654",
+    "image_url": "https://picsum.photos/200?image=1011",
+    "available_bottles": 77,
+    "total_bottles": 100,
+    "details_key": "glenfiddich_1998_6654_details"
+  },
+  {
+    "id": 12,
+    "name": "Tomatin",
+    "vintage": 1999,
+    "cask_number": "#9042",
+    "image_url": "https://picsum.photos/200?image=1012",
+    "available_bottles": 95,
+    "total_bottles": 120,
+    "details_key": "tomatin_1999_9042_details"
+  },
+  {
+    "id": 13,
+    "name": "BenRiach",
+    "vintage": 1992,
+    "cask_number": "#2233",
+    "image_url": "https://picsum.photos/200?image=1013",
+    "available_bottles": 64,
+    "total_bottles": 80,
+    "details_key": "benriach_1992_2233_details"
+  },
+  {
+    "id": 14,
+    "name": "Glengoyne",
+    "vintage": 1988,
+    "cask_number": "#3290",
+    "image_url": "https://picsum.photos/200?image=1014",
+    "available_bottles": 90,
+    "total_bottles": 100,
+    "details_key": "glengoyne_1988_3290_details"
+  },
+  {
+    "id": 15,
+    "name": "Tamdhu",
+    "vintage": 1995,
+    "cask_number": "#7021",
+    "image_url": "https://picsum.photos/200?image=1015",
+    "available_bottles": 110,
+    "total_bottles": 120,
+    "details_key": "tamdhu_1995_7021_details"
+  },
+  {
+    "id": 16,
+    "name": "Oban",
+    "vintage": 1990,
+    "cask_number": "#4132",
+    "image_url": "https://picsum.photos/200?image=1016",
+    "available_bottles": 73,
+    "total_bottles": 95,
+    "details_key": "oban_1990_4132_details"
+  },
+  {
+    "id": 17,
+    "name": "Tobermory",
+    "vintage": 1993,
+    "cask_number": "#5543",
+    "image_url": "https://picsum.photos/200?image=1017",
+    "available_bottles": 88,
+    "total_bottles": 110,
+    "details_key": "tobermory_1993_5543_details"
+  },
+  {
+    "id": 18,
+    "name": "Auchentoshan",
+    "vintage": 1997,
+    "cask_number": "#9871",
+    "image_url": "https://picsum.photos/200?image=1018",
+    "available_bottles": 120,
+    "total_bottles": 130,
+    "details_key": "auchentoshan_1997_9871_details"
+  },
+  {
+    "id": 19,
+    "name": "Aberlour",
+    "vintage": 1991,
+    "cask_number": "#6672",
+    "image_url": "https://picsum.photos/200?image=1019",
+    "available_bottles": 105,
+    "total_bottles": 115,
+    "details_key": "aberlour_1991_6672_details"
+  },
+  {
+    "id": 20,
+    "name": "Glenkinchie",
+    "vintage": 1994,
+    "cask_number": "#3011",
+    "image_url": "https://picsum.photos/200?image=1020",
+    "available_bottles": 83,
+    "total_bottles": 90,
+    "details_key": "glenkinchie_1994_3011_details"
+  }
+]
